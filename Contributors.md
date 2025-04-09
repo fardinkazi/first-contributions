@@ -1901,3 +1901,4 @@
 - [Gabriel Paliano](https://github.com/gabrielpaliano)
 - [Kelvin Nwokike](https://github.com/Kevspecial)
 - [erbeeen](https://github.com/erbeeen)
+- [Fardin Noora Kazi](https://github.com/fardinkazi)
